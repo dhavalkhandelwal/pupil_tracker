@@ -1,0 +1,10 @@
+tensorflow
+opencv-python-headless
+pandas
+scikit-learn
+numpy<2
+tqdm
+# Optional, for experiment tracking
+wandb
+imgaug
+scikit-image

@@ -1,4 +1,4 @@
-# Vision Tracker
+# Pupil Tracker
 
 This project is a high-accuracy computer vision system designed for tracking and analyzing the position of the pupil in video frames. The project leverages modern deep learning techniques and transfer learning to achieve robust and efficient tracking, making it suitable for research, experimentation, and practical applications in eye-tracking and behavioral analysis.
 
@@ -71,12 +71,7 @@ Vision Tracker is a high-accuracy computer vision system designed for tracking a
   python test.py
   ```
 
-## Notes
-- Place your dataset in the `data/` directory as structured above.
-- Saved models will be stored in `saved_models/` or `saved_models_v2/`.
-- Training and validation logs are saved in `logs/` for visualization (e.g., with TensorBoard).
-
 ## License
-Specify your license here (e.g., MIT, Apache 2.0, etc.).
+ MIT
 
 ---
